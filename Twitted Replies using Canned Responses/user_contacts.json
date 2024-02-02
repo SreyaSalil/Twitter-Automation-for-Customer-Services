@@ -1,0 +1,22 @@
+{
+    "Joe Shmoe": {
+        "phone": "",
+        "requests": []
+    },
+    "Sally Seashells": {
+        "phone": "3425679843",
+        "requests": [
+            "close_account"
+        ]
+    },
+    "Salt Pepper": {
+        "phone": "7982347895",
+        "requests": [
+            "close_account"
+        ]
+    },
+    "Apple Seed": {
+        "phone": "1234689071",
+        "requests": []
+    }
+}

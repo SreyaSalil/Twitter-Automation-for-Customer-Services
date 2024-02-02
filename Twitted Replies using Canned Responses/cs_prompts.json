@@ -1,0 +1,149 @@
+{
+        "greeting":{
+                "patterns": ["hi", "how are you", "i need some help", "hello", "good day", "whats up", "howdy", "i need help", "i have another question", "one more thing", "i need help with something else"],
+                "responses": ["Hello! How can I help you today?", "Hello. Welcome to FitBit CustCare. How can I help?", "Hi there, how can I help?"]
+        },
+        "goodbye":{
+                "patterns": ["thats all I needed help with", "i dont need anything else", "thats all", "thats it", "thats all i needed", "no thats it", "nothing else thanks"],
+                "responses": ["Thank you for using FitBit CustCare.", "Glad I could help. Thanks for choosing FitBit CustCare! Have a nice day!"]
+        },
+        "open_account":{
+                "patterns": [" what is needed for a new account", "can i open a new account", "requirements for opening an account", "i want to open an account", "open account", "create new account", "i would like to open an account", "open new account"],
+                "responses":["You are trying to open an account. Is that correct?", "You're trying to open a new account. Is that right?"], 
+                "confirmed":["You will need to speak with a representative, but I can log a request to speed up the process.", "Only a representative can do that, but I can log a request."]
+        },
+        "close_account":{
+                "patterns":["i want to close my account", "close account", "empty my account", "i need to close my account", "i want to empty my account", "cancel my account"],
+                "responses":["You want to close your account. Is that right?", "You wish to close an existing account. Is that correct?"], 
+                "confirmed":["You will need to speak with a representative, but I can log a request to speed up the process.", "Only a representative can do that, but I can log a request."]
+        },
+        "damage":{
+                "patterns":["strap is broken", "screen is cracked", "strap is ripped by pin"],
+                "responses":["The warranty is limited to one claim per device every four months. Please see http://myhelp.fitbit.com/s/warranty to file the issue and determine if the issue qualifies for a band replacement. Else, visit our store for a brand new FitBit!"]
+        },
+        "sleep_not_calculated":{
+                "patterns": ["Sleep tracker having issues", "My Fitbit did not record my sleep pattern. Said I was awake all night!", "My device did not record my sleep pattern.","My device is having trouble detecting sleep.","My FitBit dies down during the night and I can’t check my sleep stats."],
+                "responses": ["We recommend wearing your device in a snug wristband while sleeping; don’t wear your device in a clip or pendant accessory. When your body is completely at rest and you haven’t moved for about an hour, your Fitbit device records that you’re asleep. ", "Your sleep pattern includes your time spent awake, restless, and asleep. Restless sleep indicates that you moved in your sleep, like tossing and turning. If your device detects excessive movement, it records time spent awake.", "Hi, sorry to hear that. Recording sleep stats impacts your device’s battery, so we recommend charging your device to at least 40% before going to bed."]
+        },
+        "sleep_info_iphone":{
+                "patterns": ["Sleep info for iPhone", "How can I see sleep info for iPhone?"], 
+                "responses": ["To see your sleep log data on iPhone: 1. In the Fitbit app, tap the Today tab , then tap the sleep tile. 2. Tap Today or another day to see details."]
+        },
+        "sleep_info_ipad":{
+                "patterns": ["Sleep info for iPad", "How can I see sleep info for iPad?"], 
+                "responses": ["To see your sleep log data on iPad: 1. In the Fitbit app, tap the Today tab , then tap the sleep tile . 2. Tap Today or another day to see details."]
+        },
+        "sleep_info_android":{
+                "patterns": ["Sleep info for Android", "How can I see sleep info for Android?"], 
+                "responses": ["To see your sleep log data on Android: 1. In the Fitbit app, tap the Today tab , then tap the sleep tile. 2. Tap Today or another day to see details."]
+        },
+        "sleep_info_win10":{
+                "patterns": ["Sleep info for Windows10", "How can I see sleep info for Windows10?","Can’t see sleep info on my laptop"], 
+                "responses": ["To see your sleep log data on Windows 10: 1. From the Fitbit app dashboard, tap the sleep tile. 2. Tap Today or another day to see details."]
+        },
+        "sleep_info_watch":{
+                "patterns": ["Sleep info for smartwatch", "How can I see sleep info for FitBit smartwatch?","Can’t see sleep info on my watch","How do I view my sleep information on my Fitbit smartwatch?"], 
+                "responses": ["Hello! 1. Swipe up from the clock face to see Fitbit Today. 2. Check the sleep tile to see your sleep information. 3. Swipe left on the sleep tile to see your sleep patterns"]
+        },
+        "avg_sleep_iphone":{
+                "patterns": ["Average Sleep stats for iPhone", "Average Sleep info for iPhone", "How can I see average sleep info for iPhone?"], 
+                "responses": ["1. Tap the Today tab, then tap the sleep tile. 2. Swipe through the sleep graphs at the top. On certain sleep graphs, tap the arrows to expand the graph. 3. Tap a length of time at the top to change the time period you see averages for. "]
+        },
+        "avg_sleep_ipad":{
+                "patterns": ["Average Sleep stats for iPad", "Average Sleep info for iPad", "How can I see average sleep info for iPad?"], 
+                "responses": ["1. In the Fitbit app, tap the Today tab, then tap the sleep tile. 2. Swipe through the sleep graphs at the top. 3. Tap a length of time at the top to change the time period you see averages for. "]
+        },
+        "avg_sleep_android":{
+                "patterns": ["Average Sleep stats for Android", "Average Sleep info for Android", "How can I see average sleep info for Android?"], 
+                "responses": ["1. Tap the Today tab, then tap the sleep tile. 2. Swipe through the sleep graphs at the top. 3. Tap a length of time at the top to change the time period you see averages for. "]
+        },
+        "avg_sleep_smartwatch":{
+                "patterns": ["Average Sleep stats for FitBit", "Average Sleep info for FitBit Smartwatch", "How can I see average sleep info for FitBit Smartwatch?"], 
+                "responses": ["To view sleep patterns in Fitbit: 1. Swipe up from the clock face to see Fitbit Today. 2. Check the sleep tile to see your sleep information. 3. Swipe left on the sleep tile to see your sleep history for the past week."]
+        },
+        "time_awake":{
+                "patterns": ["How is my time asleep calculated in the Fitbit app?"], 
+                "responses": ["Hey there! Your time asleep is calculated by subtracting your time spent awake and restless from your overall tracked sleep time. For example, if you slept 8 hours but woke up 2 times for 15 minutes each, your time asleep would be 7 hr 30 min."]
+        },
+        "snore":{
+                "patterns": ["Can my FitBit know when I snore?", "How do I see my snore reports?","What is a snore and noise report?"], 
+                "responses": ["Yes, you can. With a Premium subscription of course. To turn on or turn off snore and noise detection: 1. From the Today tab  in the Fitbit app, tap the sleep tile 2. Tap the gear icon. 3. Tap the switch next to Detect Snoring. "]
+        },
+        "snore_categories":{
+                "patterns": ["How did FitBit categorize my snoring to mild?", "What are the different categories of snoring in FitBit?","WModerate snoring?"], 
+                "responses": ["The amount of snoring is categorized as: • None to mild (less than 10% of the total time you were asleep) • Moderate (10-40% of the total time you were asleep) • Frequent (more than 40% of the total time you were asleep)"]
+        },
+        "delete_snore_data":{
+                "patterns": ["How can I delete my snore data?"], 
+                "responses": ["To delete snore and noise data: > Visit the Manage your Fitbit Data page in your web browser. > In the Snore & Noise Detect section, select the start date and end date of the data you want to delete then Delete."]
+        },
+        "no_snore_data":{
+                "patterns": ["My FitBit can’t pick up my snores"], 
+                "responses": ["Hello, if there’s too much background noise, your device’s microphone can’t pick up snoring. For best results, don’t play white noise or other ambient sounds during sleep.","Okay. You must wear your Fitbit device during sleep to collect snore and noise data. Also, Your sleep must be at least 3 hours long in order to receive a Snore & Noise Report"]
+        },
+        "sleep_goal_app":{
+                "patterns": ["How do I set or change my sleep goal in the Fitbit app?"], 
+                "responses": ["To change sleep goals in the app: > Tap the Today tab then your profile picture then Activity & Wellness. > Tap the goal you want to view or adjust.  To delete your weight goal, tap the 3 dots icon then Remove Goal."]
+        },
+        "sleep_goal_dashboard":{
+                "patterns": ["How do I set or change my sleep goal in the Fitbit dashboard?","How do I set or change my sleep goal in Fitbit?"], 
+                "responses": ["To change sleep goals in the dashboard: > On the fitbit.com dashboard, hover your cursor over the bottom of the tile you want to adjust. > Click the gear icon. > Adjust your goal information. > Click Save or Done to confirm your changes."]
+        },
+        "bedtime_android":{
+                "patterns": ["How do I set a bedtime reminder in the Fitbit Android?"], 
+                "responses": ["In an android device: > In the Fitbit app, tap the Today tab , then tap the sleep tile. > Tap the gear icon in the top right. > Turn on the bedtime reminder and set the time and frequency. > make sure notifications from the Fitbit app are turned on."]
+        },
+        "bedtime_ipad":{
+                "patterns": ["How do I set a bedtime reminder in the Fitbit iPad?"], 
+                "responses": ["In an iPad device: > In the Fitbit app, tap the Today tab , then tap the sleep tile. > Tap the gear icon in the top right. > Turn on the bedtime reminder and set the time and frequency. >  make sure notifications from the Fitbit app are turned on."]
+        },
+        "bedtime_iphone":{
+                "patterns": ["How do I set a bedtime reminder in the Fitbit iPhone?"], 
+                "responses": ["In an IPhone device: > In the Fitbit app, tap the Today tab , then tap the sleep tile. > Tap the gear icon in the top right. > Turn on the bedtime reminder and set the time and frequency. > make sure notifications from the Fitbit app are turned on."]
+        },
+        "bedtime_pc":{
+                "patterns": ["How do I set a bedtime reminder in my Windows10 PC?"], 
+                "responses": ["In a Windows 10 device: 1. From the Fitbit app dashboard, tap the sleep tile. 2. Tap the moon icon on the bottom. 3. Find the option to turn on bedtime reminders and set the time and frequency."]
+        },
+        "log_naps":{
+                "patterns": ["My FitBit does not seem to lag naps, what seems to be the problem?"], 
+                "responses": ["Do you take naps at least an hour long? Fitbit devices detect and record naps that are at least an hour long."]
+        },
+        "edit_sleep_log":{
+                "patterns": ["My FitBit does not seem to lag naps, what seems to be the problem?"], 
+                "responses": ["Hello, to edit a sleep log: > Tap the Today tab then sleep tile. > Tap the sleep log you want to edit. > Tap the three dots and find the option to edit  > Adjust the time you went to sleep or the time you woke up, and save."]
+        },
+        "delete_sleep_log_mobile":{
+                "patterns": ["how do I delete some of my sleep logs in Iphone?", "how do I delete some of my sleep logs in Ipad?", "how do I delete some of my sleep logs in Android?"], 
+                "responses": ["Okay, To delete a sleep log: > Tap the Today tab then sleep tile. > Swipe left on the log you want to erase and tap Delete."]
+        },
+        "delete_sleep_log_pc":{
+                "patterns": ["how do I delete some of my sleep logs in my PC?","how do I delete some of my sleep logs in my laptop?","how do I delete some of my sleep logs in Windows10?"], 
+                "responses": ["Okay, to delete a sleep log: > From the Fitbit app dashboard, tap the sleep tile. > Tap the moon icon on the bottom. > Find the option to turn on bedtime reminders and set the time and frequency."]
+        },
+        "normal_sensitive_sleep":{
+                "patterns": ["I can’t tell the difference between the normal and sensitive sleep setting. Help?"], 
+                "responses": ["In normal mode, when you make significant movements like rolling over, your device records time spent awake. In sensitive mode, your device records nearly all movements as time spent restless or awake."]
+        },
+        "sleep_sensitivity_mobile":{
+                "patterns": ["How do you change the sensitivity settings in IPhone?", "How do you change the sensitivity settings in Ipad?"], 
+                "responses": ["To change your sleep sensitivity setting: > In the Fitbit app, tap the Today tab , then tap your profile picture. > Tap Advanced Settings then Sleep Sensitivity and make your changes."]
+        },
+        "sleep_sensitivity_dashboard":{
+                "patterns": ["How do you change the sensitivity settings in my PC?", "How do you change the sensitivity settings in my laptop?", "How do you change the sensitivity settings in Windows 10?", "How do you change the sensitivity settings in the dashboard?"], 
+                "responses": ["To change your sleep sensitivity setting: > From the fitbit.com dashboard, click the gear icon then Settings then your device image. > Click Sleep Tracking and make your changes."]
+        },
+        "sleep_sensitivity_android":{
+                "patterns": ["How do you change the sensitivity settings in my Android?"], 
+                "responses": ["It’s easy on Android, On Android phones, you must change your sleep sensitivity setting on fitbit.com."]
+        },
+        "confirm":{
+                "patterns": ["yes", "yes thats right", "correct", "thats correct", "yeah thats right", "yeah", "yup", "yep", "thats right"], 
+                "responses": ["Great. Thanks for confirming.", "Thank you.", "Thanks.", "Thanks for the confirmation."]
+        },
+        
+        "deny":{
+                "patterns": ["no thats not right", "thats wrong", "no that is not correct", "nope", "no", "thats wrong", "thats not right", "no thats not what i want"], 
+                "responses": ["Sorry, let's start over. ","Oops. Let me start over.", "Sorry about that. Let me try again."]
+        }
+}
