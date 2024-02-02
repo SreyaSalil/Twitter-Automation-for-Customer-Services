@@ -1,0 +1,257 @@
+Hi, I just got my new fitbit. How do I get started?
+Hello, Follow the instructions provided to register your device on Fitbit.com. Go to your 10K-A-Day account and click on the Connect Fitbit Device link on the Getting Started page or the Profile link at the top, then scroll to the bottom of the page to Connect. Is there anything else I can help with?
+No that's all
+Glad I could help. Thanks for choosing FitBit CustCare and Have a nice day.
+
+Hello, Do I have to manually log my steps every day if I use my Fitbit?
+No. As long as your Fitbit is within 10 feet of the wireless USB dongle, it will automatically download your steps to your 10K-A-Day account. Is there anything else I can help with?
+That's all.
+Glad I could help. Thank you for choosing FitBit CustCare.
+
+Can I use any tracking device to sync to my 10K-A-Day account?
+10K-A-Day is currently configured to work only with pedometers from the Fitbit family (Zip™, One™, Flex™, Alta™, Charge HR™, Blaze™, Surge™). Are you already using a Fitbit?
+Yes
+Connect your device by going to the Profile link on your 10K-A-Day account and click Connect; you’ll be directed to Fitbit.com. Sign in to Fitbit (use your Fitbit account email and password); press Allow to sync your steps with 10K-A-Day.
+Thank you so much!
+Is there anything else I could help you with?
+No, nothing else
+Thank you for choosing FitBit CustCare.
+
+Hi
+Hello, I'm the FitBit CustCare chatbot. How can I help?
+My steps aren’t showing up on my 10K-A-Day account. What do I do?
+Go to Profile in your 10K-A-Day account • At the bottom of the page, click Disconnect, then Connect • You’ll then be taken to Fitbit.com (use your Fitbit account email and password to log in); click Allow. It may take up to 30 minutes to update. Check back to verify your steps are connected with your 10K-A-Day account.
+Thank you
+Welcome, Thank you for choosing FitBit CustCare.
+
+Hey bot, I lost my FitBit. What do I do?
+Hello, don't worry. Send an email to Fitbit by visiting http://contact.fitbit.com. We may replace it or offer another solution.
+Thanks!
+Welcome, Thank you for choosing FitBit CustCare.
+
+I was wondering if all Fitbit devices eligible for a discount.
+No, not all Fitbit devices are eligible for a discount. You can see which devices are eligible on the Fitbit Member Zone page (https://members.vitality.co.uk/partners-and-rewards/fitbit)
+
+How do I exchange or return my discounted Fitbit device?
+Hello, Do you have a FitBit account?
+Yes
+Great! Please give me your first and last name.
+<f_name> <l_name>
+We have identified your user account and have resent the confirmation mail to your email. Please follow the instructions on your confirmation email from Fitbit. You'll have received this after you ordered your device. Thank you for using FitBit CustCare
+
+Close my account
+You want to close your account. Is that right?
+Yes
+I can log a request to speed up the process. Please give me your first and last name.
+no
+Sorry about that. Let me try again. What else I can help with?
+nothing 
+Thank you for using FitBit CustCare
+
+I got no weekly report via email yesterday - any reason why?
+Hi,Make sure you've checked your junk and spam folders if the weekly summary email isn't in your inbox. If it isn't there, DM your Fitbit account email address for us to have a closer look.
+
+Hi! I got the Fitbit Versa 2 for Christmas last year and the strap has broken? The pin part has ripped completely through on one strap?
+Hi. Got it! The warranty is limited to one claim per device every four months. Please see http://myhelp.fitbit.com/s/warranty to file the issue and determine if the issue qualifies for a band replacement. If you don’t qualify, you can visit http://fitbit.com/store to view options for purchasing a new band. Stay safe and healthy.
+
+Seems my Fitbit is having issues. Been to bed by 11 on all three nights.
+We recommend wearing your device in a snug wristband while sleeping; don’t wear your device in a clip or pendant accessory. When your body is completely at rest and you haven’t moved for about an hour, your Fitbit device records that you’re asleep. 
+Oh...Okay. I'll look into that.
+Thank you for using FitBit CustCare
+
+Hi! I got the Fitbit Versa 2 for Christmas last year and the strap has broken? The pin part has ripped completely through on one strap?
+Hi. Got it! The warranty is limited to one claim per device every four months. Please see http://myhelp.fitbit.com/s/warranty to file the issue and determine if the issue qualifies for a band replacement. If you don’t qualify, you can visit http://fitbit.com/store to view options for purchasing a new band. Stay safe and healthy.
+
+Seems my Fitbit is having issues. Been to bed by 11 on all three nights.
+We recommend wearing your device in a snug wristband while sleeping; don’t wear your device in a clip or pendant accessory. When your body is completely at rest and you haven’t moved for about an hour, your Fitbit device records that you’re asleep. 
+Oh...Okay. I'll look into that.
+Thank you for using FitBit CustCare
+
+My Fitbit did not record my sleep pattern. Said I was awake all night!
+Your sleep pattern includes your time spent awake, restless, and asleep. Restless sleep indicates that you moved in your sleep, like tossing and turning. If your device detects excessive movement—enough that restful sleep would not be possible—your device records time spent awake.
+Okay. That makes sense
+Thank you for using FitBit CustCare
+
+Hello, how do I see my sleep information?
+Hello. Sync your Fitbit device each morning to see last night's sleep stats, including sleep score, in the Fitbit app. May we know the OS of the device you are using?
+iPhone 7
+To see your sleep log data on iPhone: 1. In the Fitbit app, tap the Today tab , then tap the sleep tile. 2. Tap Today or another day to see details.
+
+I can’t see my sleep information. Help!
+Hello, worry not. Sync your Fitbit device each morning to see last night's sleep stats, including sleep, in the Fitbit app. May we know the OS of the device you are using?
+iPad
+To see your sleep log data on iPad: 1. In the Fitbit app, tap the Today tab , then tap the sleep tile . 2. Tap Today or another day to see details.
+
+I have been trying for ours to look at my sleep info. Please help
+Hi, we’re here to help! Sync your Fitbit device each morning to see last night's sleep stats, including sleep score, in the Fitbit app. May we know the OS of the device you are using?
+Android
+To see your sleep log data on Android: 1. In the Fitbit app, tap the Today tab , then tap the sleep tile. 2. Tap Today or another day to see details.
+
+Can’t see sleep info on my laptop
+Hi, we’re here to help! Sync your Fitbit device each morning to see last night's sleep stats, including sleep score, on your wrist. May we know the OS of the device you are using?
+Windows 10
+To see your sleep log data on Windows 10: 1. From the Fitbit app dashboard, tap the sleep tile. 2. Tap Today or another day to see details.
+
+How do I view my sleep information on my Fitbit?
+Hello! 1. Swipe up from the clock face to see Fitbit Today. 2. Check the sleep tile to see your sleep information. You may have to swipe up to find it. If you don't see the sleep tile, tap Settings at the bottom of Fitbit Today and make sure you turned on the sleep tile. 3. Swipe left on the sleep tile to see your patterns or time spent in each sleep stage, and your sleep history for the past week.
+Thank you so much!
+No problem, thank you for using FitBit CustCare
+
+I want to see my average sleep stats!
+See your averages for the week or longer periods of time for certain sleep stats, including: Hours slept, Sleep score, Sleep schedule and Sleep stages. May we know the OS of the device you are using?
+It’s an iPhone
+1. In the Fitbit app, tap the Today tab, then tap the sleep tile. 2. Swipe through the sleep graphs at the top. On certain sleep graphs, tap the arrows to expand the graph. 3. Swipe right to see data from previous weeks. 4. Tap a length of time at the top to change the time period you see averages for. For example, tap 1 mo to see your sleep data by the month and your monthly averages.
+
+How can I see average sleep stats?
+See your averages for the week or longer periods of time for certain sleep stats, including: Hours slept, Sleep score, Sleep schedule and Sleep stages. May we know the OS of the device you are using?
+I’m using an iPad
+1. In the Fitbit app, tap the Today tab, then tap the sleep tile. 2. Swipe through the sleep graphs at the top. On certain sleep graphs, tap the arrows to expand the graph. 3. Swipe right to see data from previous weeks. 4. Tap a length of time at the top to change the time period you see averages for. For example, tap 1 mo to see your sleep data by the month and your monthly averages.
+
+Can’t figure out to look at my average sleep stats
+See your averages for the week or longer periods of time for certain sleep stats, including: Hours slept, Sleep score, Sleep schedule and Sleep stages. May we know the OS of the device you are using?
+It’s an Android Phone
+1. In the Fitbit app, tap the Today tab, then tap the sleep tile. 2. Swipe through the sleep graphs at the top. On certain sleep graphs, tap the arrows to expand the graph. 3. Swipe right to see data from previous weeks. 4. Tap a length of time at the top to change the time period you see averages for. For example, tap 1 mo to see your sleep data by the month and your monthly averages.
+
+How do you see your average sleep patterns in Fitbit?
+See your averages for the week or longer periods of time for certain sleep stats, including: Hours slept, Sleep score, Sleep schedule and Sleep stages. Are you using your FitBit wrist watch?
+Yes
+To view sleep patterns in Fitbit: 1. Swipe up from the clock face to see Fitbit Today. 2. Check the sleep tile to see your sleep information. You may have to swipe up to find it. If you don't see the sleep tile, tap Settings at the bottom of Fitbit Today and make sure you turned on the sleep tile. 3. Swipe left on the sleep tile to see your sleep history for the past week.
+
+Hey, How is my time asleep calculated in the Fitbit app?
+Hey there! Your time asleep is calculated by subtracting your time spent awake and restless from your overall tracked sleep time. For example, if you slept 8 hours but woke up 2 times for 15 minutes each, your time asleep would be 7 hr 30 min.
+
+Wow….Can my FitBit know when I snore? 
+Yes, you can. With a Premium subscription of course
+How do I turn it on?
+To turn on or turn off snore and noise detection: 1. From the Today tab  in the Fitbit app, tap the sleep tile . You might have to swipe up to find it. 2. Tap the gear icon. 3. Tap the switch next to Detect Snoring. When you turn on snore and noise detection for the first time, follow the on-screen instructions.
+I did not know that. Thank you.
+Thank you for using FitBit CustCare. Have a good day.
+
+What is a snore and noise report?
+To see your snore and noise report: 1. Wear your Fitbit device to sleep. Snore and noise detection doesn’t analyze previous nights’ sleep. You receive your first report the day after you turn on the feature. 2. When you wake up, open the Fitbit app on your phone. From the Today tab  , tap the sleep tile . You might have to swipe up to find it. 3. Tap a sleep log then Restoration tile. 4. Swipe to the bottom of the page to find the Snore and Noise section. Tap View Snore & Noise Report.
+
+How did FitBit categorize my snoring to mild?
+The amount of snoring is categorized as: • None to mild (less than 10% of the total time you were asleep) • Moderate (10-40% of the total time you were asleep) • Frequent (more than 40% of the total time you were asleep)
+
+Moderate snoring?
+The amount of snoring is categorized as: • None to mild (less than 10% of the total time you were asleep) • Moderate (10-40% of the total time you were asleep) • Frequent (more than 40% of the total time you were asleep)
+
+Does FitBit Categorize snoring into different categories?
+Yes, it does. The noise level chart shows the volume of your sleeping environment in A-weighted decibels (dBA), which measures the relative loudness of sounds to the human ear. Your overall noise level is categorized as: • Very quiet (30 dBA or lower) •Quiet (30-50 dBA) •Moderate (50-70 dBA) •Loud (70-90 dBA) •Very loud (90 dBA or higher)
+
+Hey
+Hello, How I can I help?
+How can I delete my snore data?
+To delete snore and noise data: >Visit the Manage your Fitbit Data page in your web browser. >In the Snore & Noise Detect section, select the start date and end date of the data you want to delete then Delete.
+Thank you
+Welcome! Thank you for using FitBit CustCare and have a good day.
+
+My FitBit dies down during the night and I can’t check my sleep stats. This thing is useless
+Hi, sorry to hear that. Recording sleep stats impacts your device’s battery, so we recommend charging your device to at least 40% before going to bed. 
+
+My FitBit can’t pick up my snores
+Hello, if there’s too much background noise, your device’s microphone can’t pick up snoring. For best results, don’t play white noise or other ambient sounds during sleep.
+I don’t think there’s any background noise
+Okay. You must wear your Fitbit device during sleep to collect snore and noise data. Also, Your sleep must be at least 3 hours long in order to receive a Snore & Noise Report
+Okay. Thank you
+Welcome! Thank you for using FitBit CustCare 
+
+How do I set or change my sleep goal in the Fitbit app?
+To change sleep goals in the app: > Tap the Today tab then your profile picture then Activity & Wellness. > Tap the goal you want to view or adjust. > Tap the part of the goal you want to adjust, and follow the on-screen instructions to make your changes. To delete your weight goal, tap the 3 dots icon then Remove Weight Goal.
+
+How do I set or change my sleep goal in Fitbit?
+Are you using the FitBit app or the fitbit.com dashboard?
+The dashboard
+To change sleep goals in the dashboard: > On the fitbit.com dashboard, hover your cursor over the bottom of the tile you want to adjust. For example, to change your weight goal, hover over the bottom of the weight tile. > Click the gear icon. > Adjust your goal information. To delete your weight goal, click Delete goal then Done. > Click Save or Done to confirm your changes.
+
+How does FitBit know how much sleep I need?
+If you have 5 or more sleep logs, your sleep goal is estimated based on an average of these logs. Your wake-up time target is estimated based on the time you typically wake up each day, and your bedtime target defaults to the time you should go to sleep in order to meet your sleep goal.
+
+Can my Fitbit device log a nap?
+Your Fitbit device detects and records naps that are at least an hour long.
+
+How do I set a bedtime reminder in the Fitbit app?
+What device to you use? iPhones, iPads, Android phones / Windows 10?
+I use an Android phone.
+In an android device: > In the Fitbit app, tap the Today tab , then tap the sleep tile. > Tap the gear icon in the top right. > Turn on the bedtime reminder and set the time and frequency. > To see a reminder on your Fitbit device, make sure notifications from the Fitbit app are turned on.
+
+How do I set a bedtime reminder in the Fitbit app?
+What device to you use? iPhones, iPads, Android phones / Windows 10?
+iPad
+In an iPad device: > In the Fitbit app, tap the Today tab , then tap the sleep tile. > Tap the gear icon in the top right. > Turn on the bedtime reminder and set the time and frequency. > To see a reminder on your Fitbit device, make sure notifications from the Fitbit app are turned on.
+
+Set a bedtime reminder in Fitbit?
+What device to you use? iPhones, iPads, Android phones / Windows 10?
+I have an IPhone
+In an IPhone device: > In the Fitbit app, tap the Today tab , then tap the sleep tile. > Tap the gear icon in the top right. > Turn on the bedtime reminder and set the time and frequency. > To see a reminder on your Fitbit device, make sure notifications from the Fitbit app are turned on.
+
+Set a bedtime reminder in Fitbit?
+What device to you use? iPhones, iPads, Android phones / Windows 10?
+I use a PC (Windows 10)
+In a Windows 10 device: 1. From the Fitbit app dashboard, tap the sleep tile. 2. Tap the moon icon on the bottom. 3. Find the option to turn on bedtime reminders and set the time and frequency.
+
+Hey, FitBit CustCare!
+Hello! How can I help?
+My FitBit does not seem to lag naps, what seems to be the problem?
+Do you take naps at least an hour long? Fitbit devices detect and record naps that are at least an hour long.
+Thank you!
+Welcome, have a great day.
+
+Hey, FitBit CustCare, how do I edit my sleep logs?
+Hello, to edit a sleep log: > Tap the Today tab then sleep tile. > Tap the sleep log you want to edit. > Tap the three dots and find the option to edit (on Android phones, tap the pencil icon in the top right). > Adjust the time you went to sleep or the time you woke up, and save.
+
+Hey, FitBit CustCare, how do I delete some of my sleep logs?
+Hello, May I know which device do you use?
+I use an iPhone
+Okay, To delete a sleep log: > Tap the Today tab then sleep tile. > Swipe left on the log you want to erase and tap Delete.
+
+Hey, FitBit CustCare, how do I delete some of my sleep logs?
+Hello, May I know which device do you use?
+I use an iPhone
+Okay, to delete a sleep log: > Tap the Today tab then sleep tile. > Swipe left on the log you want to erase and tap Delete.
+
+Hey, FitBit CustCare, how do I delete some of my sleep logs?
+Hello, May I know which device do you use?
+I use an iPad
+Okay, to delete a sleep log: > Tap the Today tab then sleep tile. > Swipe left on the log you want to erase and tap Delete.
+
+Hey, I would like to delete some of my sleep logs
+Hello, May I know which device do you use?
+I use an Android
+Okay, to delete a sleep log: > Tap the Today tab then sleep tile. > Swipe left on the log you want to erase and tap Delete.
+
+Hey, I would like to delete some of my sleep logs
+Hello, May I know which device do you use?
+A Windows 10 PC
+Okay, to delete a sleep log: > From the Fitbit app dashboard, tap the sleep tile. > Tap the moon icon on the bottom. > Find the option to turn on bedtime reminders and set the time and frequency.
+
+I can’t tell the difference between the normal and sensitive sleep setting. Help?
+Hi, In normal mode, when you make significant movements like rolling over, your device records time spent awake. This setting is appropriate for most users. In sensitive mode, your device records nearly all movements as time spent restless or awake. This setting may be helpful if you wake up feeling tired even though your sleep history shows sufficient rest.
+Wow, cool. How do you change the sensitivity settings?
+Sure, could you please tell me the type of device you are using?
+IPhone
+To change your sleep sensitivity setting: > In the Fitbit app, tap the Today tab , then tap your profile picture. > Tap Advanced Settings then Sleep Sensitivity and make your changes.
+Cool. Thanks a lot!
+Welcome. Thank you for using CustCare!
+
+What’s the difference between the normal and sensitive sleep setting?
+Hi, In normal mode, when you make significant movements like rolling over, your device records time spent awake. This setting is appropriate for most users. In sensitive mode, your device records nearly all movements as time spent restless or awake. This setting may be helpful if you wake up feeling tired even though your sleep history shows sufficient rest.
+How do you change the sensitivity settings?
+Sure, could you please tell me the type of device you are using?
+IPad
+To change your sleep sensitivity setting: > In the Fitbit app, tap the Today tab , then tap your profile picture. > Tap Advanced Settings then Sleep Sensitivity and make your changes.
+
+Hello, do you change the sleep sensitivity settings?
+Sure, could you please tell me the type of device you are using?
+I use the fitbit.com dashboard
+To change your sleep sensitivity setting: > From the fitbit.com dashboard, click the gear icon then Settings then your device image. > Click Sleep Tracking and make your changes.
+
+Hello, do you change the sleep sensitivity settings?
+Sure, could you please tell me the type of device you are using?
+I use my Windows 10 laptop
+To change your sleep sensitivity setting: > From the fitbit.com dashboard, click the gear icon then Settings then your device image. > Click Sleep Tracking and make your changes.
+
+I would like to know how to change my sleep sensitivity settings.
+Sure, could you please tell me the type of device you are using?
+An Android
+It’s easy on Android, On Android phones, you must change your sleep sensitivity setting on fitbit.com.
